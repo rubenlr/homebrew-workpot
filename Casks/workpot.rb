@@ -1,6 +1,6 @@
 cask "workpot" do
-  version "0.0.7"
-  sha256 "f118d2311e12006ad573298b6b874192139691dd3e8223e15f6b76cd87277838"
+  version "0.0.8"
+  sha256 "7cb0491efee3104df7dbf9454438e09224ffd68646375bc831bd1aacd0185ba2"
 
   url "https://github.com/rubenlr/workpot/releases/download/v#{version}/Workpot-#{version}-aarch64.tar.gz"
   name "Workpot"
